@@ -1,4 +1,4 @@
-# seaarch-engine
+# search-engine
 A project to implement a wikipedia indexing and search algorithm, complete witha psuedo-page rank algorithm. 
 
 ## built on
