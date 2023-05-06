@@ -6,3 +6,4 @@ Ubuntu 23.04 Desktop using Node 20
 
 ## resources
 [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
+[Power iteration](https://en.wikipedia.org/wiki/Power_iteration)
